@@ -19,12 +19,12 @@ Once you've done this step, go to: https://account.mapbox.com/access-tokens/
 
 * Leave this webpage open, we'll refer back to it later.
 
-<a href="APIKey.png" target="_blank">View map in new tab</a>
+<a href="Content/APIKey.png" target="_blank">View map in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="APIKey.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Content/APIKey.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
