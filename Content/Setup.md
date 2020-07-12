@@ -13,12 +13,16 @@ nav_order: 2
   * To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
   * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
 
-<a href="PoliceViolenceIncidents.html" target="_blank">View map in new tab</a>
+### 1) In the top right, click "New">"Terminal"
+
+### 2) This server has almost all the packages we'll 
+
+<a href="git_Clone.mp4" target="_blank">View map in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="git_Clone.mp" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
