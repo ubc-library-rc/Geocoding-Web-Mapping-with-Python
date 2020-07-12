@@ -25,7 +25,7 @@ nav_order: 1
 * This map shows all known of police involved killings in Canada between 2000 & 2017
 * Webmapping is a powerful tool that can be used to promote social justice
 
-<a href="PoliceViolenceIncidents.html" target="_blank">View map in new tab</a>
+<a href="PoliceViolenceIncidents.html" target="_blank">View Map in New Tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;

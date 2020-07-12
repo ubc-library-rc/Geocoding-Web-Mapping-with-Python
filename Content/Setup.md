@@ -17,18 +17,18 @@ nav_order: 2
 
 ### 2) This server has almost all the packages we'll 
 
-<a href="git_Clone.mp4" target="_blank">View map in new tab</a>
+<a href="git_Clone.mp4" target="_blank">Open Video in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
   <iframe src="git_Clone.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: 100%;
+   height: 150%;
    left: 0;
    position: absolute;
    top: 0;
-   width: 100%;">
+   width: 150%;">
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
