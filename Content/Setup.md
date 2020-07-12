@@ -10,12 +10,12 @@ nav_order: 2
 * Click this link to start your server: https://ubc.syzygy.ca/jupyter
   * Login with your CWL.  You'll then be taken to a blank jupyter notebook!
 * Now we're ready to add some files!
-  * To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
+  * To do this, we open a comand terminal, and clone the gitWorkshop Designhub repository containing all the necisary files.
   * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
 
 ### 1) In the top right, click "New">"Terminal"
 
-### 2) This server has almost all the packages we'll 
+In the terminal type "https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/"
 
 <a href="git_Clone.mp4" target="_blank">Open Video in new tab</a>
 
