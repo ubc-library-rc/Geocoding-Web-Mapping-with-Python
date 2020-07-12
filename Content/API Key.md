@@ -19,18 +19,3 @@ Once you've done this step, go to: https://account.mapbox.com/access-tokens/
 
 * Leave this webpage open, we'll refer back to it later.
 
-<a href="git_Clone.mp4" target="_blank">View map in new tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="git_Clone.mp" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
