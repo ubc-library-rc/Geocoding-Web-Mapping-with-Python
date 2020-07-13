@@ -24,7 +24,7 @@ nav_order: 3
 	* Scipy is math library, we'll use it for calculating a linear regression & chi sqare
 * [branca](https://python-visualization.github.io/branca/colormap.html)
 	* A package for creating colormaps
-* [geopy]https://geopy.readthedocs.io/en/stable/)
+* [geopy](https://geopy.readthedocs.io/en/stable/)
 	* This is a package that can connect us with different geodocing services
 
 ### Unfortunately Geopy isn't installed on this servere :(
