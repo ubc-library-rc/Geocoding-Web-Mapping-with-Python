@@ -22,6 +22,8 @@ nav_order: 3
 	* Matplotlib is a powerful ploting library.  We'll uses it to make detailed maps and graphs
 * [follium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
 	* Scipy is math library, we'll use it for calculating a linear regression & chi sqare
+* [branca](https://python-visualization.github.io/branca/colormap.html)
+	* A package for creating colormaps
 * [geopy]https://geopy.readthedocs.io/en/stable/)
 	* This is a package that can connect us with different geodocing services
 
