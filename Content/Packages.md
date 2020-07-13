@@ -16,6 +16,8 @@ nav_order: 3
 	* Numpy is a powerful math libary for multidimensional data
 * [pandas](https://pandas.pydata.org/docs/)
 	* Pandas is a powerful library for handling data
+* [geopandas](https://geopandas.org/)
+	* This is a geospatial extension to pandas.  We'll use it to handle and manipulate our geospatial data
 * [matplotlib](https://matplotlib.org/contents.html)
 	* Matplotlib is a powerful ploting library.  We'll uses it to make detailed maps and graphs
 * [follium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
