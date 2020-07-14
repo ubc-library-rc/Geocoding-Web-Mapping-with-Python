@@ -13,7 +13,7 @@ nav_order: 2
   * To do this, we open a comand terminal, and clone the gitWorkshop Designhub repository containing all the necisary files.
   * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
 
-### 1) In the top right, click "New">"Terminal"
+### In the top right, click "New">"Terminal"
 
 In the terminal type "https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/"
 

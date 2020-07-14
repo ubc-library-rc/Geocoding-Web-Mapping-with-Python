@@ -1,10 +1,10 @@
 ---
 layout: default
 title: API Key
-nav_order: 3
+nav_order: 4
 ---
 
-# Then next step is going to getting an api key for Mapbox's Geocoding Service
+# Then next step is getting an api key for Mapbox's Geocoding Service
 
 You should have already created an account with mapbox.com
 * If you haven't done so already, do that now
