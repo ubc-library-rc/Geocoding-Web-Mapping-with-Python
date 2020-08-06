@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Geocoding and Webmapping with Python!
+title: Introudction
 nav_order: 1
 ---
-## Note: this workshop is in development and not yet complete.
+## Using Python to Promote Social Justice.
 
 <a href="slides.html" target="_blank">View slides in new tab</a>
 

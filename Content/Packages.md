@@ -1,15 +1,24 @@
 ---
 layout: default
-title: Python Packages
-nav_order: 3
+title: Basics of Python
+nav_order: 2
 ---
+# Python is a powerful programming language that is free to download and use.
+* If you want your own installation, check out [Anaconda](https://www.anaconda.com/products/individual)
+  * It will install most commonly used python packages and set everything up for you.
+
+
+### GIS w/ Python: Resources:
+
+* A great place to go if you're having issues with python is [Stack Overflow](https://stackoverflow.com/)
+	* Its a popular forum where you can search, post, and answer coding questions.
+* A related site that is more GIS focused site is [Stack Exchnage](https://gis.stackexchange.com/)
+
+
 # Python relies on a series of packages (aka libraries) to handle different tasks
 
 * Packages are collections of code that are designed specifically for performing different tasks, e.g.: Plottoing, Statistics, Linear Algebra, etc.
 
-* This server has every package we need already installed on it.
-  * If you want to install python on your own computer.  I recomemend you use check out: [Anaconda](https://www.anaconda.com/products/individual)
-  * It will install most commonly used python packages and set everything up for you.
 
 ## We'll be workng with the following packages today
 * [numpy](https://numpy.org/doc/stable/)
@@ -27,16 +36,6 @@ nav_order: 3
 * [geopy](https://geopy.readthedocs.io/en/stable/)
 	* This is a package that can connect us with different geodocing services
 
-### Unfortunately Geopy isn't installed on this servere :(
-
-
-### But we can intsll it ourselves!
-
-* Following the same procedure as the Setup page, open a new terminal
-
-  * In the terminal window type:
-    pip install geopy
-
-  * Then hit enter
-
-* This will install the geopy package.  We'll use this package to do our Geocoding
+### We'll be using a UBC server with python alread installed.  It has **Almost** every package we need already installed on it.
+* If you are doing this using your own instalaition, you'll need to make sure you install each of the above packages.  Instrctons can be found on each packages webpage
+* geopy isn't installed on this server, but we can easily install it ourselves!  I'll walk you through the process on the getting started page.
