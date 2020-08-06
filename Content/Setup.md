@@ -16,11 +16,11 @@ nav_order: 2
 
 # Step 2) Download the workshop files
 
-### 1a) Copy the text inside the quotes "git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/" from the drop down menu.
+### 2a) Copy the text inside the quotes "git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/" from the drop down menu.
 
-### 1b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+### 2b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
 
-### 1c) In the new terminal window that opens, right click and paste the git clone command into the terminal window.  Then hit enter
+### 2c) In the new terminal window that opens, right click and paste the git clone command into the terminal window.  Then hit enter
 * "git clone" is a command that tells git (a file tracking software) to to download a set of programs and files known as a repository
 * https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python is the location of the repository for this workshop
 
