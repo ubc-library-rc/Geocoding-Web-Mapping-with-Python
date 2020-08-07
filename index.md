@@ -3,7 +3,7 @@ layout: default
 title: Introudction
 nav_order: 1
 ---
-## Using Python to Promote Social Justice.
+# Using Python to Promote Social Justice.
 
 <a href="slides.html" target="_blank">View slides in new tab</a>
 
@@ -21,9 +21,7 @@ nav_order: 1
  </iframe>
 </div>
 
-# The end goal of the workshop is to produce an interactive webmap like this!
-* This map shows all known of police involved killings in Canada between 2000 & 2017
-* Webmapping is a powerful tool that can be used to promote social justice
+## The end goal of the workshop is to produce an interactive webmap like this!
 
 <a href="PoliceViolenceIncidents.html" target="_blank">View Map in New Tab</a>
 
