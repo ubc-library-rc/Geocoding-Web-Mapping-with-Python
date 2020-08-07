@@ -3,7 +3,7 @@ layout: default
 title: Introudction
 nav_order: 1
 ---
-# Using Python to Promote Social Justice.
+# Using Python to Promote Social Justice
 
 <a href="slides.html" target="_blank">View slides in new tab</a>
 
