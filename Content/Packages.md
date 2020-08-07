@@ -27,9 +27,11 @@ nav_order: 2
 	* Pandas is a powerful library for handling data
 * [geopandas](https://geopandas.org/)
 	* This is a geospatial extension to pandas.  We'll use it to handle and manipulate our geospatial data
+* [scipy](https://docs.scipy.org/doc/scipy/reference/)
+	* Scipy is math library, we'll use it for calculating a linear regressions
 * [matplotlib](https://matplotlib.org/contents.html)
 	* Matplotlib is a powerful ploting library.  We'll uses it to make detailed maps and graphs
-* [follium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
+* [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
 	* Scipy is math library, we'll use it for calculating a linear regression & chi sqare
 * [branca](https://python-visualization.github.io/branca/colormap.html)
 	* A package for creating colormaps
