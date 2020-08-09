@@ -55,7 +55,7 @@ nav_order: 3
 
 * To do geocoding, we'll use Mapbox's geocoding service.  If you haven't done so already, create an account with [Mapbox](https://mapbox.com)
 
-Once you've done this step, go to: https://account.mapbox.com/access-tokens/
+Once you've done this step, you can get your [access token](https://account.mapbox.com/access-tokens/)
 
 * On this page, you should see a "Default Public Token".  This will be the key we use to access Mapbox's geocoding service
   * If not click the "Create Token Button"
