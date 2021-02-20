@@ -5,7 +5,6 @@ nav_order: 1
 ---
 # Using Python to Promote Social Justice
 
-<a href="slides.html" target="_blank">View slides in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -20,10 +19,11 @@ nav_order: 1
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+<a href="slides.html" target="_blank">View slides in new tab</a>
 
-## The end goal of the workshop is to produce an interactive webmap like this!
 
-<a href="PoliceViolenceIncidents.html" target="_blank">View Map in New Tab</a>
+## The end goal of the workshop is to produce an interactive webmap!
+
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -38,3 +38,4 @@ nav_order: 1
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+<a href="PoliceViolenceIncidents.html" target="_blank">View Map in New Tab</a>
