@@ -10,6 +10,13 @@ nav_order: 3
 * This is good for getting your bearings becasue everything is already set up.  You don't have to worry about installing anything on your own system.
  * Login with your CWL.  You'll then be taken to a blank jupyter window!
 
+
+### We'll be using a UBC server with python alread installed.  It has **Almost** every package we need already installed on it.
+* If you are doing this using your own instalaition, you'll need to make sure you install each of the above packages.  Instrctons can be found on each packages webpage
+* geopy isn't installed on this server, but we can easily install it ourselves!  I'll walk you through the process on the getting started page.
+
+
+
 # Step 2) Download the workshop files
 
 ## a) To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
@@ -63,7 +70,7 @@ Once you've done this step, you can get your [access token](https://account.mapb
     * Click "Create Token"
       * You may be prompted to enter your password
 * Copy this api key.  We'll paste it into our notebook.
-
+<!-- 
 <a href="APIKey.png" target="_blank">View Image in New Tab</a>
 
 <div style="overflow: hidden;
@@ -79,6 +86,26 @@ Once you've done this step, you can get your [access token](https://account.mapb
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+ -->
+
+
+<a href="https://www.youtube.com/watch?v=SIWbjgPYcJY" target="_blank">View Image in New Tab</a>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="https://www.youtube.com/watch?v=SIWbjgPYcJY" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+
+
 
 
 # Step 5) Navigating Jupyter Notebooks

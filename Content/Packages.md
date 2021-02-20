@@ -3,19 +3,19 @@ layout: default
 title: Basics of Python
 nav_order: 2
 ---
-# Python is a powerful programming language that is free to download and use.
-* If you want your own installation, check out [Anaconda](https://www.anaconda.com/products/individual)
-  * It will install most commonly used python packages and set everything up for you.
+# About Python:
+* It's is a powerful programming language that is free to download and use.
+* It's well suited for data analysis and visualization.
+	* Making it a great choice for working with geospatial data!
 
+# Accessing Python
+* Today We'll be using a UBC server with python alread installed on it.
+* If you want to install Python on your own computer, check out [Anaconda](https://www.anaconda.com/products/individual)
+ 	* Anaconda will install most commonly used python packages and set everything up for you.
+ 	* Anaconda won't install *every* package we're using today, but installing new packages is fairly straigtforward.
 
-### GIS w/ Python: Resources:
-
-* A great place to go if you're having issues with python is [Stack Overflow](https://stackoverflow.com/)
-	* Its a popular forum where you can search, post, and answer coding questions.
-* A related site that is more GIS focused site is [Stack Exchnage](https://gis.stackexchange.com/)
-
-
-# Python relies on a series of packages (aka libraries) to handle different tasks
+# Python Pakcakges:
+ relies on a series of packages (aka libraries) to handle different tasks
 
 * Packages are collections of code that are designed specifically for performing different tasks, e.g.: Plottoing, Statistics, Linear Algebra, etc.
 
@@ -38,6 +38,11 @@ nav_order: 2
 * [geopy](https://geopy.readthedocs.io/en/stable/)
 	* This is a package that can connect us with different geodocing services
 
-### We'll be using a UBC server with python alread installed.  It has **Almost** every package we need already installed on it.
-* If you are doing this using your own instalaition, you'll need to make sure you install each of the above packages.  Instrctons can be found on each packages webpage
-* geopy isn't installed on this server, but we can easily install it ourselves!  I'll walk you through the process on the getting started page.
+
+
+
+### Resources:
+
+* If you're having issues with Python, a great place to check out is [Stack Overflow](https://stackoverflow.com/)
+	* Its a popular forum where you can search, post, and answer coding questions.
+* A related site that is more GIS focused site is [Stack Exchnage](https://gis.stackexchange.com/)
