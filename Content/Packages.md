@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basics of Python
-nav_order: 3
+nav_order: 2
 ---
 # Python is:
 * A powerful programming language that is free to download and use.
