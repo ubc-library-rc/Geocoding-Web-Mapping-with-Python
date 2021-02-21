@@ -70,7 +70,7 @@ Once you've done this step, you can get your [access token](https://account.mapb
     * Click "Create Token"
       * You may be prompted to enter your password
 * Copy this api key.  We'll paste it into our notebook.
-<!-- 
+
 <a href="APIKey.png" target="_blank">View Image in New Tab</a>
 
 <div style="overflow: hidden;
@@ -86,26 +86,6 @@ Once you've done this step, you can get your [access token](https://account.mapb
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
- -->
-
-
-<a href="https://www.youtube.com/watch?v=SIWbjgPYcJY" target="_blank">View Image in New Tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="https://www.youtube.com/watch?v=SIWbjgPYcJY" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-
-
 
 
 # Step 5) Navigating Jupyter Notebooks
