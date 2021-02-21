@@ -1,36 +1,52 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 3
+nav_order: 4
 ---
 
-# Step 1) Start python
+# Step 1) Start Python
+### UBC provides server space where you can run Python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
+* This is good option for getting your bearings becasue nearly everything is already set up.
+  * You don't have to worry about installing anything on your own system.
+  * Login with your CWL.  You'll then be taken to a blank jupyter window.
 
-### UBC provides students with server space where you can run python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
-* This is good for getting your bearings becasue everything is already set up.  You don't have to worry about installing anything on your own system.
- * Login with your CWL.  You'll then be taken to a blank jupyter window!
-
-
-### We'll be using a UBC server with python alread installed.  It has **Almost** every package we need already installed on it.
-* If you are doing this using your own instalaition, you'll need to make sure you install each of the above packages.  Instrctons can be found on each packages webpage
-* geopy isn't installed on this server, but we can easily install it ourselves!  I'll walk you through the process on the getting started page.
-
-
-
-# Step 2) Download the workshop files
-
-## a) To do this, we open a comand terminal, and clone the github repository containing all the necisary files.
+# Step 2) Download the data & code
+## Open a comand terminal and clone the Github workshop's repository.
 * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
+* You can refer to the video below for helps with steps 2 - 4. 
 
-## b) In they Jupyter window you just opened, click "New" in the top right and selecte "Terminal" from the dropdown menu
+## A) In they Jupyter window, click "New" in the top right and select "Terminal" from the dropdown menu.
 
-## c) In the new terminal window that opens, right click and paste the following command into the terminal window then hit enter:
+## B) In the new terminal window that opens, type the command "git clone" followed by this URL: https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+* "git clone" tells Git (a file tracking software) to to download a repository (the [URL](https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/) is the location of the repository for this workshop with all the files and code
 
-### git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+## C) Hit enter
+* The flies will download after a few seconds.
 
-* "git clone" is a command that tells git (a file tracking software) to to download a set of programs and files known as a repository
-* [url](https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/) is the location of the repository for this workshop with all the files and code
 
+# Setp 3) Installing geopy
+## A) In the terminal window type:
+    pip install geopy
+
+## B) Hit enter
+* This will install the geopy package. 
+
+# Step 4) Navigating Jupyter Notebooks
+
+## A) Close the terminal window.
+
+## B) Go back to your Jupyter Notebook window
+* You will notice a folder titled "Geocoding and Webmapping with Python"
+  * Double clicking the folder will open it.
+* You'll see a two more folders and a collection of files.  The .ipynb tag on the end denotes a Jupyter "Notebook"
+  * A Notebook is a collection of Python code and Annotations that can be run interactively.
+
+## C) Open Geocoding & Webmapping with Python.ipynb
+* Navigate back to the window with your Mapbox API key
+* Copy the key and paste it in the first code block where you see
+  * api_key = ""
+
+## D) You're ready to run the code!
 
 <a href="git_Clone.mp4" target="_blank">Open Video in new tab</a>
 
@@ -48,55 +64,4 @@ nav_order: 3
  </iframe>
 </div>
 
-# Setp 3) Installing geopy
 
-* In the terminal window type:
-    pip install geopy
-
-  * Then hit enter
-
-* This will install the geopy package.  We'll use this package to do our Geocoding
-
-
-# Step 4) Getting an api key for Mapbox's Geocoding Service
-
-* To do geocoding, we'll use Mapbox's geocoding service.  If you haven't done so already, create an account with [Mapbox](https://mapbox.com)
-
-Once you've done this step, you can get your [access token](https://account.mapbox.com/access-tokens/)
-
-* On this page, you should see a "Default Public Token".  This will be the key we use to access Mapbox's geocoding service
-  * If not click the "Create Token Button"
-    * Give it a name, and leave all other default options checked.
-    * Click "Create Token"
-      * You may be prompted to enter your password
-* Copy this api key.  We'll paste it into our notebook.
-
-<a href="APIKey.png" target="_blank">View Image in New Tab</a>
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="APIKey.png" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-
-
-# Step 5) Navigating Jupyter Notebooks
-
-* Go back to your jupyter notebook window, you will notice a folder titled "Geocoding and Webmapping with Python" appear
-  * Double clicking the folder will open it.
-  * You'll see a couple more folders and a collection of files
-* Files with the .ipynb tag on the end are "Jupyter Notebooks" 
-  * You'll notice two inside:
-      * Geocoding and Webmapping with Python.ipynb
-        * This is he notebook we'll be using if you plan to follow along live
-        * There are a few points in here where write/edit the code to work through some problems
-      * Self Backup.ipynb
-        * This version is fully functional as is and can be used if you want to work through this on your own or copy some of the code.
