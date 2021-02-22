@@ -55,12 +55,12 @@ nav_order: 3
 ### You're ready to run the code!
 
 
-<a href="git_Clone.mp4" target="_blank">Open Video in new tab</a>
+<a href="SetUp.mp4" target="_blank">Open Video in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="git_Clone.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="SetUp.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
