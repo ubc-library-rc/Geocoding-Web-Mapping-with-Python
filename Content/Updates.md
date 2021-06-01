@@ -10,7 +10,10 @@ nav_order: 4
 
 We'll use a subset of the updated database too make a webmap of incidents in BC.
 
+Opne the Final Map notebook.
 
+
+<!-- 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
@@ -26,3 +29,4 @@ We'll use a subset of the updated database too make a webmap of incidents in BC.
 </div>
 <a href="PoliceViolenceIncidents_BC.html" target="_blank">View Map in New Tab</a>
 
+ -->
