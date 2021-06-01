@@ -53,4 +53,4 @@ Candian instututions rely on the lack of race based statistics to perpetuate a n
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="PoliceViolenceIncidents.html" target="_blank">View Map in New Tab</a>
+<a href="PoliceViolenceIncidents_BC.html" target="_blank">View Map in New Tab</a>
