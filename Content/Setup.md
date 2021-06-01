@@ -12,14 +12,14 @@ nav_order: 3
 ## A) Start Python
 * UBC provides server space where you can run Python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
   * Login with your CWL.  You'll then be taken to a blank jupyter window.
-* This is good option for getting your bearings becasue nearly everything is already set up.
+* This is good option for getting your bearings because nearly everything is already set up.
   * You don't have to worry about installing anything on your own system.
-* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know comand line to do this.  I'll walk you through step by step!!
+* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know command line to do this.  I'll walk you through step by step!!
   * You can refer to the video below for helps with steps 2 - 5. 
 
 
 ## B) Open a terminal
-* We're going to open a comand terminal and use command line clone the Github workshop's repository.
+* We're going to open a command terminal and use command line clone the Github workshop's repository.
 * In they Jupyter window, click "New" in the top right and select "Terminal" from the dropdown menu.
 
 ## C) Clone the repository
