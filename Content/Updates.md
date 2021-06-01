@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Updates
 nav_order: 4
 ---
 
@@ -14,7 +14,7 @@ We'll use a subset of the updated database too make a webmap of incidents in BC.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="PoliceViolenceIncidents.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="PoliceViolenceIncidents_BC.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
