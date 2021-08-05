@@ -26,7 +26,9 @@ Canadian policing institutions rely on secrecy and the a of statistics to perpet
 # Learning Objectives
 
 1) Cursory overview to python
+
 2) Introduction to geocoding with python
+
 3) Creating simple web-maps with python
 
 ### The end goal of the workshop is to produce an interactive web-map
