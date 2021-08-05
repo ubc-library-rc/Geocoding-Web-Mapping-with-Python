@@ -8,6 +8,13 @@ nav_order: 2
 
 Its a great language! But its not the only language. Just as English, Cantonese, or Punjabi could all be used to explain systemic racism; Python, Javascirpt, or R can all be used to quantify and visualize the scale of the problem.   like python because its very flexible, fairly easy to read / write, well suited for data analysis, has lots of packages for GIS, and it's completely free!
 
+## Packages
+
+Python has a number of built in functionality, but many of the most useful tools and functions come require us to [import](https://docs.python.org/3/reference/simple_stmts.html#import) packages.
+
+* Packages are pre-written blocks of code, sometimes referred to as libraries.
+* They are built for addressing specific tasks: e.g. linear algebra, mapping, plotting.
+
 ## Accessing Python
 
 Today We'll be using a UBC server with python already installed on it.  If you want to install Python on your own computer, check out [Anaconda](https://www.anaconda.com/products/individual).
@@ -15,7 +22,7 @@ Today We'll be using a UBC server with python already installed on it.  If you w
 * Anaconda will install most commonly used python packages and set everything up for you.
 * Anaconda won't install *every* package we're using today, but installing new packages is fairly straightforward.
 
-## Other Resources:
+## Other resources
 
 If you're having issues with Python, a great place to check out is [Stack Overflow](https://stackoverflow.com/).  It is a popular forum where you can search, post, and answer coding questions.
 * A related site that is more GIS focused site is [Stack Exchange](https://gis.stackexchange.com/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geocoding
+title: Geocoding & Web Maps
 nav_order: 3
 ---
 
@@ -33,6 +33,10 @@ In the terminal window type the command below and hit enter to install the geopy
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+
+# Web Mapping
+
+Web mapping takes cartography beyond static maps.  Today, we'll use a Python package called [gollium]http://python-visualization.github.io/folium/ which allows us to create dynamic, interactive webmaps that can be embedded in webpages.  Folium will "translate" our python commands into Javascrpt and create [leaflet](https://leafletjs.com/) maps.  Leaflet is a javascript   Follium is already installed, so we don't have any more steps to do here!
 
 # Getting Started with Geocoding
 
