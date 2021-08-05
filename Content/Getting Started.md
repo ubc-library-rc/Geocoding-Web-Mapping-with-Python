@@ -33,10 +33,9 @@ If you're having issues with Python, a great place to check out is [Stack Overfl
 ## 1) Start Python
 * UBC provides server space where you can run Python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
   * Login with your CWL.  You'll then be taken to a blank jupyter window.
-* This is good option for getting your bearings because nearly everything is already set up.
-  * You don't have to worry about installing anything on your own system.
+* This is good option for getting your bearings because nearly everything is already set up. You don't have to worry about installing anything on your own system.
 * This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know command line to do this.  I'll walk you through step by step!!
-  * You can refer to the video below for helps with steps 2 - 5. 
+  * You can refer to the video below for help
 
 
 ## 2) Open a terminal
@@ -67,9 +66,6 @@ If you're having issues with Python, a great place to check out is [Stack Overfl
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-
-
-
 
 # Using a Jupyter Notebook
 
