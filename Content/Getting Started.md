@@ -34,7 +34,7 @@ If you're having issues with Python, a great place to check out is [Stack Overfl
 * UBC provides server space where you can run Python using a [Jupyter Notebook](https://ubc.syzygy.ca/jupyter)
   * Login with your CWL.  You'll then be taken to a blank jupyter window.
 * This is good option for getting your bearings because nearly everything is already set up. You don't have to worry about installing anything on your own system.
-* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know command line to do this.  I'll walk you through step by step!!
+* This may sound intimidating/confusing.  But don't worry, its easy.  You don't need to know command line to do this.  I'll walk you through step by step.
   * You can refer to the video below for help
 
 
@@ -51,12 +51,12 @@ If you're having issues with Python, a great place to check out is [Stack Overfl
 * Hit enter and the flies will download after a few seconds.
 
 
-<a href="SetUp.mp4" target="_blank">Open Video in new tab</a>
+<a href="Git Clone.mp4" target="_blank">Open Video in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="SetUp.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Git Clone.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
