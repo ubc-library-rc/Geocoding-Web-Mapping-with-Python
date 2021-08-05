@@ -38,7 +38,9 @@ If you're having issues with Python, a great place to check out is [Stack Overfl
 
 ## 3) Clone the repository
 * In the new terminal window that opens, paste the command:
- 	git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+
+		git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+
 * This tells Git (a file tracking software) to to download a repository for this workshop with all the files and code.
 * Hit enter and the flies will download after a few seconds.
 

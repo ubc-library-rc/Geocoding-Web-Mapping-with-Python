@@ -3,7 +3,7 @@ layout: default
 title: Introudction
 nav_order: 1
 ---
-# Introduction: Geocoding and Web Mapping with Python
+# Geocoding and Web Mapping with Python
 
 Workshop created by June Skeeter (They/Them/Theirs) skeeter1@mail.ubc.ca for the UBC Library Search Commons
 
