@@ -23,7 +23,7 @@ In the terminal window type the command below and hit enter to install the geopy
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="SetUp.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="pip_install.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -41,5 +41,5 @@ Web mapping takes cartography beyond static maps.  Today, we'll use a Python pac
 # Getting Started with Geocoding
 
 You can close the terminal window, we don't need it anymore.  Go back to your Jupyter Notebook window.
-* Double click on "Getting Started with Geocoding.ipynb" to open it.
+* Double click on "Geocoding and Webmapping.ipynb" to open it.
 

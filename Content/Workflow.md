@@ -6,9 +6,11 @@ nav_order: 4
 
 # An Example Workflow
 
-You are a GIS analyist working with a non-profit in Toronto and you've been asked to put together a map highlighting the racial disparities in poice violoence at the hands of the Toronto Police.  A dataset covering the years 2000-2017 is available with demographics data and addresses where the incidents occured.  The map needs to be interactive and compatible with mobile devices.
+Now that we've gotten an introduction to geocoding and web mapping, lets see how one might use it in practice.  Take this scenario: 
+* You are a GIS analyst working with a non-profit in Toronto and you've been asked to put together a map highlighting the racial disparities in police violence at the hands of the Toronto Police.  The map needs to be interactive and compatible with mobile devices.  Leaflet maps are the ideal solution here.
+* A dataset covering the years 2000-2017 is available with demographics data describing the victims.  However many incomplete records, the police refuse to release information identifying the victims in many cases.  The data also has the addresses where the incidents occurred.  To compensate for this, you decide to add census data to the map to show the demographics of the populations where the incidents are occurring.
 
-ExampleWorkflow
+This is how you might work thorough this task:
 
 
 <a href="ExampleWorkflow.png" target="_blank">Open diagram in new tab</a>
