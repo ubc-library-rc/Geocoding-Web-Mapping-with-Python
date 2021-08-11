@@ -6,7 +6,7 @@ nav_order: 3
 
 # Geocoding
 
-The process of attributing coordinates (Latitude/Longitude) to descriptive locations (Street Address).  With Python, we can use a variety of web based services (google maps, mapbox, open street map, etc.) to perform geocoding.  We're using mapbox today because it strikes a good balance between cost and accuracy.  [Google maps](https://developers.google.com/maps/documentation/geocoding/overview) is argualbly the best geocoding service, but it sots money :/ (5.00 USD per 1000 request).  [Open Street Maps](https://osmnames.org/) is totally free, but it is errorprone. [Mapbox](https://docs.mapbox.com/api/search/geocoding/) is free ,[up to 100,000 requests per month](https://www.mapbox.com/pricing/#geocode) and gives fairly reliable results.  We will be using a module called [geopy](https://geopy.readthedocs.io/en/stable/) to interface with Mapbox for us.
+The process of attributing coordinates (Latitude/Longitude) to descriptive locations (Street Address).  With Python, we can use a variety of web based services (google maps, mapbox, open street map, etc.) to perform geocoding.  We're using mapbox today because it strikes a good balance between cost and accuracy.  [Google maps](https://developers.google.com/maps/documentation/geocoding/overview) is argualbly the best geocoding service, but it sots money :/ (5.00 USD per 1000 request).  [Open Street Maps](https://osmnames.org/) is totally free, but it is errorprone. [Mapbox](https://docs.mapbox.com/api/search/geocoding/) is free, up to [100,000 requests per month](https://www.mapbox.com/pricing/#geocode) and gives fairly reliable results.  We will be using a module called [geopy](https://geopy.readthedocs.io/en/stable/) to interface with Mapbox for us.
 
 ## Using Mapbox
 
