@@ -24,12 +24,29 @@ Workshop created by June Skeeter june.skeeter@mubc.ca for the UBC Library Search
 This workshop deals with a difficult and painful subject that may be triggering to some, especially BIPOC individuals.  We are going to use a dataset of police killings and police involved deaths in Canada.  The intent behind choosing this dataset end goal of this workshop is to show that GIS, programming, data analysis, and data visualization can be powerful tools for promoting social and environmental justice issues.
 
 
+# Why Police-Involved Deaths in Canada?
+
+Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police in Canada play a central tool in Canada's ongoing genocide of Indigenous people, actively work to oppress BIPOC communities, and maintain systems of oppression in Canadian society.  Police institutions exist to do the bidding of those in power, not protect the public.
+
+Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
+* We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.
+
+## Notes on Terminology
+
+**Police Killing:** A death directly resulting from police use of force.  Including but not limited to: shooting, tazing, other use of force.
+
+**Police-Involved Deaths**  Any civilian death at the hands of police or in the custody of police.  Includes police killings deaths resulting from police negligence/inaction: suicide, overdoses, medical emergencies, etc.  This is broader term that is more difficult to refute on the grounds of semantics.  
+
+## Increasing Police Violence in Canada
+
+There has been an [increasing trend](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also probable that Canadian Police *are* becoming more violent.
+
 # Territorial Acknowledgement
 
 
 UBC and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations.
 
-<img src="Content/images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
+<img src="docs/images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
 
 <a href="https://opentextbc.ca/indigenizationfoundations/chapter/acknowledging-traditional-territories/" target="_blank">Map Source</a>
 
@@ -54,9 +71,7 @@ Why do we say *traditional, ancestral, and unceded territory*?
 
 <iframe src="https://native-land.ca/api/embed/embed.html?maps=treaties" style="width:80%; height:400px; border:none;"></iframe>
 
-# Why Police-Involved Deaths in Canada?
 
-Canadian policing institutions rely on secrecy and the a of statistics to perpetuate the narrative that police violence and systemic racism are "just American issues" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  But it is patently untrue, police violence and systemic racism are serious issues in Canadian society and they need to be part of the public discourse in order to dismantle these systems of oppression and hold Canadian institutions accountable.
 
 # Learning Objectives
 
@@ -66,13 +81,15 @@ Canadian policing institutions rely on secrecy and the a of statistics to perpet
 
 3) Creating simple web-maps with python
 
-## The end goal of the workshop is to produce an interactive web-map
+# Final Product
+
+The end goal of the workshop is to produce an interactive web-map like this one showing poice involved deaths in BC since 2016
 
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="PID_BC.html.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="BC_Police_Involved_Deaths.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -82,5 +99,5 @@ Canadian policing institutions rely on secrecy and the a of statistics to perpet
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="PID_BC.html.html" target="_blank">View Map in New Tab</a>
+<a href="BC_Police_Involved_Deaths.html" target="_blank">View Map in New Tab</a>
 

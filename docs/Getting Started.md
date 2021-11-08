@@ -58,7 +58,7 @@ We're going to open a command terminal and use command line clone the Github wor
 
 **3**{: .label .label-red } **Clone the Repository**
 
-Cloning tells Git (a file tracking software) to to download a repository (collection of code, data, etc.) for this workshop.
+Cloning tells Git (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.
 In the new terminal window that opens, paste this command and hit enter:
 
 		git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
@@ -80,4 +80,6 @@ In the file viewer You will notice a folder with the same name as the repository
 
 # Video Reference
 
-This video covers the above steps
+This video covers the above steps.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lqzOLeSlo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
