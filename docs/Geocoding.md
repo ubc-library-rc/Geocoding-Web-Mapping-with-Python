@@ -14,10 +14,9 @@ Create a free [Mapbox](https://mapbox.com) account.  Once you have an account, y
 
 # Web Mapping
 
-Web mapping takes cartography beyond static maps.  Today, we'll use a Python package called [follium]http://python-visualization.github.io/folium/ which allows us to create dynamic, interactive webmaps that can be embedded in webpages.  Folium will "translate" our python commands into Javascrpt and create [leaflet](https://leafletjs.com/) maps.  Leaflet is a javascript   Follium is already installed, so we don't have any more steps to do here!
+Web mapping takes cartography beyond static maps.  Today, we'll use a Python package called [follium]http://python-visualization.github.io/folium/ which allows us to create dynamic, interactive webmaps that can be embedded in webpages.  Folium will "translate" our python commands into Javascrpt and create [leaflet](https://leafletjs.com/) maps.  Leaflet is a javascript package for creating beautifly functional webmaps.   Follium is already installed, so we don't have any more steps to do here!
 
 # Getting Started with Geocoding
 
 You can close the terminal window, we don't need it anymore.  Go back to your Jupyter Notebook window.
 * Double click on "Geocoding and Webmapping.ipynb" to open it.
-
