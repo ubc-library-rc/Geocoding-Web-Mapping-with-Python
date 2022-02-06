@@ -26,9 +26,7 @@ This workshop deals with a difficult and painful subject that may be triggering 
 
 # Why Police-Involved Deaths in Canada?
 
-Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police in Canada play a central tool in Canada's ongoing genocide of Indigenous people, actively work to oppress BIPOC communities, and maintain systems of oppression in Canadian society.  Police institutions exist to do the bidding of those in power, not protect the public.
-
-Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
+Racism is ingrained in the history of policing in Canada since the founding of the Royal Canadian Mounted Police (RCMP) in 1873.  Police play a central tool in Canada's ongoing genocide of Indigenous people and they work to maintain systems of oppression throughout in Canadian society.  Canadian institutions rely on the lack of race based statistics and other demographic information to perpetuate a narrative that systemic racism is "just an American issue" and that Canada is "better".  As a white settler and immigrant from the United States, I fell for that narrative and did not question it for years.  
 * We need to have discussions about systemic racism in Canada and make it part of the public discourse in order to hold Canadian institutions accountable.
 
 ## Notes on Terminology
@@ -39,7 +37,7 @@ Canadian institutions rely on the lack of race based statistics and other demogr
 
 ## Increasing Police Violence in Canada
 
-There has been an [increasing trend](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also probable that Canadian Police *are* becoming more violent.
+There has been an [increasing trend](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also likely that Canadian Police *are* becoming more violent.
 
 # Territorial Acknowledgement
 

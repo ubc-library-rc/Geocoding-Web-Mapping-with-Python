@@ -20,3 +20,7 @@ Web mapping takes cartography beyond static maps.  Today, we'll use a Python pac
 
 You can close the terminal window, we don't need it anymore.  Go back to your Jupyter Notebook window.
 * Double click on "Geocoding and Webmapping.ipynb" to open it.
+
+# An Example Workflow
+
+Now that we've gotten an introduction to geocoding and web mapping, we'll work through a practical application by mapping violence at the hands of Police in BC.  Go back to your Jupyter Lab window, double click on "Example Workflow.ipynb" to open it.
