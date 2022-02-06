@@ -1,0 +1,65 @@
+I"-<h1 class="no_toc" id="getting-started">Getting Started</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#accessing-python" id="markdown-toc-accessing-python">Accessing Python</a></li>
+  <li><a href="#download-the-code-and-data" id="markdown-toc-download-the-code-and-data">Download the Code and Data</a></li>
+</ol>
+
+</details>
+
+<h1 id="accessing-python">Accessing Python</h1>
+
+<p>Today We’ll be using a UBC server with python already installed on it.  If you want to install Python on your own computer, check out <a href="https://www.anaconda.com/products/individual">Anaconda</a>.</p>
+
+<ul>
+  <li>Anaconda will install most commonly used python packages and set everything up for you.</li>
+  <li>Anaconda won’t install <em>every</em> package we’re using today, but installing new packages is fairly straightforward.</li>
+</ul>
+
+<p><strong>Other resources</strong>: If you’re having issues with Python, a great place to check out is <a href="https://stackoverflow.com/">Stack Overflow</a>.  It is a popular forum where you can search, post, and answer coding questions.  A related site that is more GIS focused site is <a href="https://gis.stackexchange.com/">Stack Exchange</a></p>
+
+<h1 id="download-the-code-and-data">Download the Code and Data</h1>
+
+<p><strong>Video Reference</strong>: This video covers the steps incase you get lost.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_lqzOLeSlo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p><strong class="label label-red">1</strong> <strong>Start a Jupyter Lab</strong></p>
+
+<p>UBC provides server space where you can run Python using <a href="https://ubc.syzygy.ca/jupyter">Jupyter Lab</a>.  Login with your CWL.  You’ll then be taken to a blank jupyter lab.  This is a good option for getting your bearings because nearly everything is already set up.  You don’t have to worry about installing anything on your own system.</p>
+<ul>
+  <li>This may be intimidating, but don’t worry, you don’t need to know command line to do this.  I’ll walk you through step by step.</li>
+</ul>
+
+<p><strong class="label label-red">2</strong> <strong>Open a terminal</strong></p>
+
+<p>We’re going to open a terminal and use command line clone (“download”) the Github workshop’s repository.  In they Jupyter window, click <strong>File»New</strong> in the top right and select <strong>Terminal</strong> from the drop-down menu.</p>
+
+<p><strong class="label label-red">3</strong> <strong>Clone the Repository</strong></p>
+
+<p><strong>clone</strong> tells <strong>git</strong> (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.  A folder called <strong>Geocoding-Web-Mapping-with-Python</strong> will appear after you clone the repository.  You can explore it using the file viewer on the left, or you can use the command line.  In the new terminal window that opens, paste this command and hit enter:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+</code></pre></div></div>
+
+<p><strong class="label label-red">4</strong> <strong>Installing a Package</strong></p>
+
+<p><strong>pip</strong> (package installer for Python) is a tool we can use to install packages.  In the terminal window type the command below and hit enter to install the Geopy package:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install geopy
+</code></pre></div></div>
+
+<p><strong class="label label-red">5</strong>  <strong>Opening a Jupyter Notebook</strong></p>
+
+<p>In the file viewer you will see a folder called <strong>Geocoding-Web-Mapping-with-Python</strong>, double clicking the folder will open it.  You’ll see a collection of folders and files.  The one we will be working in today is called <strong>Python_Notebooks</strong>.  In this folder you will see three files with <strong>.ipyneb</strong> tag, that denotes a <strong>Jupyter Notebook</strong>.  A Notebook is a collection of code and annotations that can be run interactively.  Double click a notebook to open.</p>
+
+<ul>
+  <li><strong>Getting Started with Python.ipynb</strong>: will give you an introduction to data analysis with Python.</li>
+  <li><strong>Geocoding and Webmapping.ipynb</strong>: will give you an introduction to using Geopy to geocode and Folium to make web maps.</li>
+  <li><strong>Example Workflow.ipynb</strong>: Shows a practical application of geocoding andn web mapping violence at the hands of Police in BC.  Go back to your Jupyter Lab window, double click on  to open it.</li>
+</ul>
+:ET
