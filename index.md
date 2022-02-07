@@ -7,7 +7,7 @@ nav_order: 1
 # Geocoding and Web Mapping with Python
 {: .no_toc }
 
-Workshop created by June Skeeter june.skeeter@mubc.ca for the UBC Library Search Commons.
+Workshop created by June Skeeter june.skeeter@ubc.ca for the UBC Library Search Commons.
 
 ### Content Warning
 {: .no_toc }
