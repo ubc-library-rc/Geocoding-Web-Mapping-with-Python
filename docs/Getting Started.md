@@ -21,13 +21,13 @@ nav_order: 4
 
 Today We'll be using a UBC server with python already installed on it.  If you want to install Python on your own computer, check out [Anaconda](https://www.anaconda.com/products/individual).
 
-* Anaconda will install most commonly used python packages and set everything up for you.
+* Anaconda will install many of the most commonly used python packages and set everything up for you.
 * Anaconda won't install *every* package we're using today, but installing new packages is fairly straightforward.
 
 **Other resources**: If you're having issues with Python, a great place to check out is [Stack Overflow](https://stackoverflow.com/).  It is a popular forum where you can search, post, and answer coding questions.  A related site that is more GIS focused site is [Stack Exchange](https://gis.stackexchange.com/)
 
 
-# Download the Code and Data
+## Download the Code and Data
 
 **Video Reference**: This video covers the steps in case you get lost.
 
@@ -47,13 +47,17 @@ We're going to open a terminal and use command line clone ("download") the Githu
 
 **clone** tells **git** (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.  A folder called **Geocoding-Web-Mapping-with-Python** will appear after you clone the repository.  You can explore it using the file viewer on the left, or you can use the command line.  In the new terminal window that opens, paste this command and hit enter:
 
-		git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+```console
+    git clone https://github.com/ubc-library-rc/Geocoding-Web-Mapping-with-Python/
+```
 
 **4**{: .label .label-red } **Installing a Package**
 
 **pip** (package installer for Python) is a tool we can use to install packages.  In the terminal window type the command below and hit enter to install the Geopy package:
 
+```console
     pip install geopy
+```
 
 **5**{: .label .label-red }  **Opening a Jupyter Notebook**
 
