@@ -76,6 +76,6 @@ Racism is ingrained in the history of policing in Canada since the founding of t
 There has been an [increasing trend](https://police-involved-deaths-ca.github.io/Data/#increasing-police-violence-in-canada) in deaths at the hands of Canadian Police over recent years.  This may be partly an result of greater access to information, but it is also likely that Canadian Police *are* becoming more violent.
 
 
-<img src="https://police-involved-deaths-ca.github.io/Data/docs/images/Annual.png" alt="hi" class="inline" width="500"/>
+<img src="https://police-involved-deaths-ca.github.io/Data/docs/images/Annual.png" alt="hi" class="inline" width="400"/>
 
 
