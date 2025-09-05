@@ -1,4 +1,4 @@
-# Geocoding-Web-Mapping-with-Python
+# Geocoding and Web Mapping with Python
 
 This workshop is an introduction to geocoding and web mapping with python.
 
